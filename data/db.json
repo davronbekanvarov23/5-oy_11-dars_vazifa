@@ -1,0 +1,133 @@
+{
+  "recipies": [
+    {
+      "id": "1",
+      "title": "Palov",
+      "cookingTime": "120 minutes",
+      "ingredients": ["rise", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*UxnVMQMIAowST-rp"
+    },
+    {
+      "id": "2",
+      "title": "Ko'kat Somsa",
+      "cookingTime": "40 minutes",
+      "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+      "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+      "imageUrl": "https://arbuz.com/wp-content/uploads/2017/08/Samsa-Recipe-46.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mastava",
+      "cookingTime": "60 minutes",
+      "ingredients": [
+        "potatoes",
+        "carrot",
+        "meat",
+        "oil",
+        "onion",
+        "spices",
+        "rice"
+      ],
+      "method": "Sed posuere, diam nec ullamcorper eleifend, quam quam eleifend metus, vel luctus dolor elit quis nulla. Vivamus quis laoreet enim, non tempor lectus. Praesent fringilla purus at turpis pulvinar iaculis. Nam semper bibendum elementum. Quisque quam purus, luctus vel elementum a, gravida sed nisl.",
+      "imageUrl": "https://novotours.uz/wp-content/uploads/2017/11/mastava.jpg"
+    },
+    {
+      "id": "4",
+      "title": "lagmon",
+      "cookingTime": "150 minutes",
+      "ingredients": [
+        "potatoes",
+        "carrot",
+        "meat",
+        "oil",
+        "onion",
+        "spices",
+        "lagmon"
+      ],
+      "method": "Ut egestas volutpat sodales. Maecenas magna diam, suscipit eu neque ac, dapibus posuere tortor. Donec et congue eros, et pretium nibh. Pellentesque aliquam nec est ut maximus. Integer et condimentum est. Integer dictum magna vitae purus fringilla, vitae lobortis leo efficitur. Fusce rutrum turpis dui, non laoreet felis volutpat a. ",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2018/10/lagman-gotovoe-blyudo.jpg"
+    },
+    {
+      "id": "5",
+      "title": "chuchvara",
+      "cookingTime": "45 minutes",
+      "ingredients": [
+        "potatoes",
+        "carrot",
+        "meat",
+        "oil",
+        "onion",
+        "spices",
+        "flour"
+      ],
+      "method": "Nullam suscipit erat sapien, nec accumsan risus sagittis vitae. Nulla finibus accumsan dignissim. Fusce erat tortor, aliquet eu commodo quis, condimentum eget ligula. Vestibulum justo ex, tincidunt a eros ut, ultrices consequat ipsum. Pellentesque metus nulla, iaculis congue nisl eget, eleifend accumsan nulla. ",
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/hQlAPGHyJgUou_Ba4V3y_3EDKiKZWckmaqrg_xWNPEGD_A6j-drx9DN14Oq35MPRUTYbcoqOkM6aG4qLI3rRzkbuTzfmMAVcd9ohORnuWsdx_L1Rru0QlQ0ycA"
+    },
+    {
+      "id": "6",
+      "title": "Mampar",
+      "cookingTime": "40 minutes",
+      "ingredients": [
+        "flour",
+        "carrot",
+        "meat",
+        "oil",
+        "onion",
+        "spices",
+        "agg",
+        "salt"
+      ],
+      "method": "Sed at tortor sit amet nibh maximus tincidunt porttitor quis quam. Cras facilisis nunc vel massa vestibulum tincidunt. Donec malesuada dui dolor, sit amet imperdiet orci pharetra quis. Sed ornare nibh at posuere lacinia. Sed posuere, velit a sollicitudin placerat, ligula nunc pulvinar augue, porta ornare lectus elit nec velit",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2019/09/mampar-6.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Qovurdoq",
+      "cookingTime": "20 minutes",
+      "ingredients": [
+        "potatoes",
+        "carrot",
+        "meat",
+        "oil",
+        "onion",
+        "spices",
+        "salt"
+      ],
+      "method": "Duis semper nec metus vel tempor. Sed congue neque quam, vel pulvinar justo sodales vitae. Fusce malesuada imperdiet velit nec semper. Mauris vel nibh id tellus placerat dictum. Morbi viverra interdum tellus, sed pretium erat eleifend at. Morbi eros lorem, condimentum nec risus sed, laoreet auctor purus. Fusce pellentesque bibendum rhoncus",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2018/10/kavardak1-2.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Dimlama",
+      "cookingTime": "160 minutes",
+      "ingredients": [
+        "potatoes",
+        "carrot",
+        "meat",
+        "oil",
+        "onion",
+        "spices",
+        "cabbage"
+      ],
+      "method": "Sed posuere, diam nec ullamcorper eleifend, quam quam eleifend metus, vel luctus dolor elit quis nulla. Vivamus quis laoreet enim, non tempor lectus. Praesent fringilla purus at turpis pulvinar iaculis. Nam semper bibendum elementum. Quisque quam purus, luctus vel elementum a, gravida sed nisl.",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2018/03/dimlama-3.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Norin",
+      "cookingTime": "150 minutes",
+      "ingredients": ["flour", "bulyon", "meat", "onion", "spices", "agg"],
+      "method": "Ut egestas volutpat sodales. Maecenas magna diam, suscipit eu neque ac, dapibus posuere tortor. Donec et congue eros, et pretium nibh. Pellentesque aliquam nec est ut maximus. Integer et condimentum est. Integer dictum magna vitae purus fringilla, vitae lobortis leo efficitur. Fusce rutrum turpis dui, non laoreet felis volutpat a. ",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2018/07/norin-1.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Xamir xasip",
+      "cookingTime": "145 minutes",
+      "ingredients": ["meat", "oil", "onion", "spices", "flour", "rice"],
+      "method": "Nullam suscipit erat sapien, nec accumsan risus sagittis vitae. Nulla finibus accumsan dignissim. Fusce erat tortor, aliquet eu commodo quis, condimentum eget ligula. Vestibulum justo ex, tincidunt a eros ut, ultrices consequat ipsum. Pellentesque metus nulla, iaculis congue nisl eget, eleifend accumsan nulla. ",
+      "imageUrl": "https://zira.uz/wp-content/uploads/2019/03/xamir-hosip.jpg"
+    }
+  ]
+}

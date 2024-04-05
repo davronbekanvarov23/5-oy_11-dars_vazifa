@@ -1,0 +1,58 @@
+@font-face {
+  font-display: swap;
+  font-family: "Mina";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/mina-v11-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* mina-700 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Mina";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/mina-v11-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Mina";
+  font-weight: 400;
+  font-size: 24px;
+  background: bisque;
+}
+.card {
+  padding: 50px;
+  background: #19c03d5e;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  img {
+    border-radius: 12px;
+  }
+  h3 {
+    color: rgb(20, 106, 106);
+  }
+  h4 {
+    color: rgb(148, 100, 41);
+  }
+}
+.title {
+  color: rgb(171, 29, 138);
+}
+.ingredients {
+  color: rgb(111, 43, 184);
+}
+
